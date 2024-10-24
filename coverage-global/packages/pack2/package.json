@@ -1,0 +1,8 @@
+{
+    "name": "pack2",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "jest",
+        "test:coverage": "jest --coverage"
+    }
+}
